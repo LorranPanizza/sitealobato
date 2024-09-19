@@ -18,7 +18,7 @@
 .boton{
     position: fixed;
     top: 20px;
-    left: 20px;
+    left: 0px;
     padding: 10px 20px;
     background-color: blue;
     color: rgb(244, 248, 251);
